@@ -1,0 +1,9 @@
+[package]
+name = "fprintjs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+log = "0.4.25"
+simple_logger = "5.0.0"
+yara = { version = "0.29.0", features = [] }
